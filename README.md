@@ -173,7 +173,7 @@ Python • Scikit-Learn • XGBoost • TensorFlow • FastAPI • React.js • 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge\&logo=vercel)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge\&logo=vercel)](https://portfolio-2gaz0rwd9-khushal-s-projects-cd4b8ce2.vercel.app/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/khushalcodess)
 
