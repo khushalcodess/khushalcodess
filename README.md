@@ -145,17 +145,13 @@ Python • Scikit-Learn • XGBoost • TensorFlow • FastAPI • React.js • 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushalcodess&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushalcodess&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushalcodess&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushalcodess&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalcodess&layout=compact&theme=tokyonight" width="50%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalcodess&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 # 📚 Currently Learning
