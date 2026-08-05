@@ -132,6 +132,8 @@ Python • Scikit-Learn • XGBoost • TensorFlow • FastAPI • React.js • 
 
 # 🏆 Certifications
 
+🥇 IBM Getting Started with Generative AI
+
 🥇 Oracle Cloud Infrastructure AI Foundations Associate
 
 🥇 JPMorgan Chase Software Engineering Job Simulation
