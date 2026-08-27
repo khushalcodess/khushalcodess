@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushal Patil</h1>
 
-<h3 align="center">AI/ML Engineer | Machine Learning Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">AI/ML Engineer | Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Machine+Learning+Enthusiast;NLP+%26+Predictive+Modeling;Building+Intelligent+Systems;Full-Stack+Developer;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;NLP+%26+Predictive+Modeling;Building+Intelligent+Systems;Full-Stack+Developer;Software+Engineer" />
 </p>
 
 <p align="center">
@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Learner-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BCA-Student-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%2FML-Engineer-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem-Solver-blue?style=for-the-badge" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm an **AI/ML Engineer** passionate about building intelligent systems that solve real-world problems through Machine Learning, Data Science, and Modern Web Technologies.
+I'm an AI/ML Engineer working with Machine Learning, Deep Learning, Generative AI, and Full-Stack development to build and deploy practical AI systems.
 
 🔬 **Areas of Interest**
 
@@ -32,35 +32,40 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems that sol
 * Full-Stack Development
 
 💡 **Core Technologies**
-Python • Scikit-Learn • XGBoost • TensorFlow • FastAPI • React.js • Node.js • MongoDB • MySQL
+Python • Scikit-Learn • XGBoost • TensorFlow • YOLOv8 • FastAPI • React.js • Node.js • MongoDB • MySQL
 
 🎯 My goal is to build AI-powered products that create meaningful impact and solve real-world challenges.
 
 ---
 
-# 🤖 AI / ML Expertise
+# 🤖 AI / ML
 
-✅ Machine Learning
-
-✅ Natural Language Processing (NLP)
-
-✅ Predictive Modeling
-
-✅ Feature Engineering
-
-✅ Model Evaluation
-
-✅ Explainable AI (SHAP)
-
-✅ Data Analysis
-
-✅ REST API Deployment
-
-✅ Model Deployment using FastAPI
+✅ Machine Learning  
+✅ Deep Learning  
+✅ Natural Language Processing (NLP)  
+✅ Generative AI  
+✅ Retrieval-Augmented Generation (RAG)  
+✅ Predictive Modeling  
+✅ Feature Engineering  
+✅ Model Evaluation  
+✅ Explainable AI (SHAP)  
+✅ Model Deployment  
+✅ FastAPI & REST APIs
 
 ---
 
 # 🌟 Featured Projects
+
+## 🦺 SentryScan — Safety Helmet Detection System
+
+* Real-time object detection system using YOLOv8 to identify safety helmet compliance from images and live camera feeds
+* Trained on 28,000+ labeled images, achieving **91.8% mAP@50** and **88.4% Recall**
+* Conducted full dataset integrity audit and removed a noisy underrepresented class to improve reliability
+* Achieved real-time inference speed of ~2-5ms per image, enabling live webcam detection
+* Exported model to ONNX for framework-independent deployment
+* Built using YOLOv8, FastAPI, React.js — deployed on Render and Vercel
+* 🔗 [Live Demo](https://safety-helmet-detector.vercel.app) | [GitHub](https://github.com/khushalcodess/safety-helmet-detector)
+---
 
 ## 🏦 Secure Banking Fraud Detection System
 
@@ -70,7 +75,7 @@ Python • Scikit-Learn • XGBoost • TensorFlow • FastAPI • React.js • 
 * Achieved **89% Fraud Recall**
 * Integrated SHAP Explainability
 * Built using React.js, Node.js, MongoDB and Python
-
+* 🔗 [Live Demo](https://bank-froud.vercel.app/) | [GitHub](https://github.com/khushalcodess/Bank-Froud-Detection)
 ---
 
 ## 🔍 Fake Job Posting Detector
@@ -80,19 +85,9 @@ Python • Scikit-Learn • XGBoost • TensorFlow • FastAPI • React.js • 
 * Achieved **0.84 F1 Score**
 * Implemented TF-IDF and SVM Classification
 * Built using FastAPI, React.js and Scikit-Learn
-
+* 🔗 [Live Demo](https://fake-job-posting-detector-eight.vercel.app/) | [GitHub](https://github.com/khushalcodess/Fake-Job-Posting-Detector.git)
 ---
 
-## 📚 Research Publication
-
-### Car Classification Using Machine Learning
-
-* Co-authored Machine Learning research paper
-* Compared SVM, KNN and Naive Bayes
-* Applied PCA for dimensionality reduction
-* Published in UTU Journal
-
----
 
 # 💻 Tech Stack
 
@@ -109,7 +104,7 @@ Python • Scikit-Learn • XGBoost • TensorFlow • FastAPI • React.js • 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
@@ -140,8 +135,6 @@ Python • Scikit-Learn • XGBoost • TensorFlow • FastAPI • React.js • 
 
 🥇 Data Analytics Job Simulation
 
-🥇 Web Scraping using Python
-
 ---
 
 <!-- ================= GitHub Stats ================= -->
@@ -166,7 +159,7 @@ Python • Scikit-Learn • XGBoost • TensorFlow • FastAPI • React.js • 
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/khushalcodess/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge\&logo=vercel)](https://portfolio-pearl-five-17.vercel.app/)
 
