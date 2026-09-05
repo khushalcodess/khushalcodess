@@ -161,7 +161,7 @@ Python • Scikit-Learn • XGBoost • TensorFlow • YOLOv8 • FastAPI • Re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/khushalcodess/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge\&logo=vercel)](https://portfolio-pearl-five-17.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge\&logo=vercel)](https://bank-froud-detection-blue.vercel.app)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/khushalcodess)
 
