@@ -75,7 +75,7 @@ Python • Scikit-Learn • XGBoost • TensorFlow • YOLOv8 • FastAPI • Re
 * Achieved **89% Fraud Recall**
 * Integrated SHAP Explainability
 * Built using React.js, Node.js, MongoDB and Python
-* 🔗 [Live Demo](https://bank-froud.vercel.app/) | [GitHub](https://github.com/khushalcodess/Bank-Froud-Detection)
+* 🔗 [Live Demo](https://bank-froud-detection-blue.vercel.app/) | [GitHub](https://github.com/khushalcodess/Bank-Froud-Detection)
 ---
 
 ## 🔍 Fake Job Posting Detector
